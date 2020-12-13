@@ -32,12 +32,12 @@
      
      Fill details and click on create
      
-     ![image](https://user-images.githubusercontent.com/68885738/90953480-80285200-e489-11ea-8ec1-0eedb4635efb.png)
+     ![image](https://user-images.githubusercontent.com/58024415/102009726-6758ea80-3d5f-11eb-98fd-513951ce4e32.png)
      
      select security and give some name for token and then click on Generate
 3. Add SonarQube servers details with in "configure system"
 
-![image](https://user-images.githubusercontent.com/68885738/90910714-689f8980-e3f5-11ea-889c-68e63b8302ce.png)
+![image](https://user-images.githubusercontent.com/58024415/102009750-91aaa800-3d5f-11eb-9622-8e6b6be5f37b.png)
 
 Name: sonar-scanner
 Server URL: http://54.210.37.165:9000/
