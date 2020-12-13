@@ -9,6 +9,8 @@
     yum install python-pip
 # Insrall nose, coverage, nosexcover, pylint
     pip install nose coverage nosexcover pylint
+## Sonarqube installation
+   [Sonarqube installaton](./sonarqube-installation.md)
 # Clone code into local
     git clone https://github.com/Naresh240/sonarqube-python.git
     cd sonarqube-python
