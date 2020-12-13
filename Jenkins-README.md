@@ -28,11 +28,11 @@
         
      Click on My Account
      
-     ![image](https://user-images.githubusercontent.com/68885738/90910508-0ba3d380-e3f5-11ea-918a-1234e695ba01.png)
+     ![image](https://user-images.githubusercontent.com/58024415/102009726-6758ea80-3d5f-11eb-98fd-513951ce4e32.png)
      
      Fill details and click on create
      
-     ![image](https://user-images.githubusercontent.com/58024415/102009726-6758ea80-3d5f-11eb-98fd-513951ce4e32.png)
+     ![image](https://user-images.githubusercontent.com/68885738/90953480-80285200-e489-11ea-8ec1-0eedb4635efb.png)
      
      select security and give some name for token and then click on Generate
 3. Add SonarQube servers details with in "configure system"
