@@ -16,7 +16,7 @@
     wget https://binaries.sonarsource.com/Distribution/sonar-scanner-cli/sonar-scanner-cli-4.4.0.2170-linux.zip
     unzip sonar-scanner-cli-4.4.0.2170-linux.zip
 # Integrate Sonarqube with jenkins
-1. Add sonarqube plugin 
+1. Add sonar-scanner plugin 
 2. Add SonarQube servers with in jenkins
    - Need to create authentication token with in Sonarqube server
    
