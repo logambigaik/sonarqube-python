@@ -2,7 +2,7 @@
   "errors": [],
   "generated_at": "2021-01-13T12:47:28Z",
   "metrics": {
-    "../test.py": {
+    "test.py": {
       "CONFIDENCE.HIGH": 0,
       "CONFIDENCE.LOW": 0,
       "CONFIDENCE.MEDIUM": 0,
@@ -30,7 +30,7 @@
   "results": [
     {
       "code": "4 if __name__ == \"__main__\":\n5     app.run(\"0.0.0.0\",debug=True)\n",
-      "filename": "../test.py",
+      "filename": "test.py",
       "issue_confidence": "MEDIUM",
       "issue_severity": "HIGH",
       "issue_text": "A Flask app appears to be run with debug=True, which exposes the Werkzeug debugger and allows the execution of arbitrary code.",
