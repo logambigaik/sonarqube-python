@@ -11,7 +11,7 @@
       "SEVERITY.LOW": 0,
       "SEVERITY.MEDIUM": 0,
       "SEVERITY.UNDEFINED": 0,
-      "loc": 23,
+      "loc": 6,
       "nosec": 0
     },
     "_totals": {
@@ -23,20 +23,20 @@
       "SEVERITY.LOW": 0,
       "SEVERITY.MEDIUM": 1,
       "SEVERITY.UNDEFINED": 0,
-      "loc": 64,
+      "loc": 6,
       "nosec": 0
     }
   },
   "results": [
     {
-      "code": "50 if __name__ == \"__main__\":\n51     app.run(\"0.0.0.0\",debug=True)\n",
+      "code": "4 if __name__ == \"__main__\":\n5     app.run(\"0.0.0.0\",debug=True)\n",
       "filename": "/src/test.py",
       "issue_confidence": "MEDIUM",
       "issue_severity": "HIGH",
       "issue_text": "A Flask app appears to be run with debug=True, which exposes the Werkzeug debugger and allows the execution of arbitrary code.",
-      "line_number": 51,
+      "line_number": 5,
       "line_range": [
-        51
+        5
       ],
       "test_id": "B201",
       "test_name": "flask_debug_true"
