@@ -25,8 +25,7 @@
     unzip sonar-scanner-cli-4.4.0.2170-linux.zip
     mv sonarqube-python/sonar-scanner.properties /opt/sonar-scanner-4.4.0.2170-linux/conf/sonar-scanner.properties
 #Copy test case folder into bin using cp
-    
-    ![Capture](https://user-images.githubusercontent.com/54719289/105101172-77898580-5ad4-11eb-98a7-abd69d3db97d.JPG)
+ ![Capture](https://user-images.githubusercontent.com/54719289/105101172-77898580-5ad4-11eb-98a7-abd69d3db97d.JPG)
 
 
     
