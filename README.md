@@ -26,7 +26,8 @@
     mv sonarqube-python/sonar-scanner.properties /opt/sonar-scanner-4.4.0.2170-linux/conf/sonar-scanner.properties
 #Copy test case folder into bin using cp
     
-    ![Capture](https://user-images.githubusercontent.com/54719289/105100792-d7cbf780-5ad3-11eb-96db-f5ec1eebf4c3.JPG)
+    ![Capture](https://user-images.githubusercontent.com/54719289/105101172-77898580-5ad4-11eb-98a7-abd69d3db97d.JPG)
+
 
     
 # Run Sonar-Scanar to test python application with SonarQube
