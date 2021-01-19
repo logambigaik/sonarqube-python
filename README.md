@@ -6,7 +6,7 @@
     - SonarQube Setup
     - Install Sonar-Scanar
 # Install python and pip
-    yum install python-pip
+    yum install python python-pip
 # Insrall nose, coverage, nosexcover, pylint
     pip install nose coverage nosexcover pylint
 ## Sonarqube installation
