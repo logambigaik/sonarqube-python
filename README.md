@@ -7,7 +7,7 @@
     - Install Sonar-Scanar
 # Install python and pip
     yum install python python-pip
-# Insrall nose, coverage, nosexcover, pylint
+# Install nose, coverage, nosexcover, pylint
     pip install nose coverage nosexcover pylint
 ## Sonarqube installation
    [Sonarqube installaton](https://github.com/Naresh240/sonarqube-installation.git)
@@ -24,9 +24,14 @@
     wget https://binaries.sonarsource.com/Distribution/sonar-scanner-cli/sonar-scanner-cli-4.4.0.2170-linux.zip
     unzip sonar-scanner-cli-4.4.0.2170-linux.zip
     mv sonarqube-python/sonar-scanner.properties /opt/sonar-scanner-4.4.0.2170-linux/conf/sonar-scanner.properties
+#Copy test case folder into bin using cp
+    
+    ![Capture](https://user-images.githubusercontent.com/54719289/105100792-d7cbf780-5ad3-11eb-96db-f5ec1eebf4c3.JPG)
+
+    
 # Run Sonar-Scanar to test python application with SonarQube
     cd /opt/sonar-scanner-cli-4.4.0.2170-linux/bin
     ./sonar-scanner
   ![image](https://user-images.githubusercontent.com/58024415/102007223-1e983600-3d4d-11eb-9f60-6a5f313fc797.png)
 # Check test result in Sonarqube UI 
-  ![image](https://user-images.githubusercontent.com/58024415/102007237-3cfe3180-3d4d-11eb-8655-b1a25e7443ca.png)
+ ![Capture](https://user-images.githubusercontent.com/54719289/105101004-385b3480-5ad4-11eb-8766-64379224417e.JPG)
