@@ -40,3 +40,5 @@
   ![image](https://user-images.githubusercontent.com/58024415/102007223-1e983600-3d4d-11eb-9f60-6a5f313fc797.png)
 # Check test result in Sonarqube UI 
  ![Capture](https://user-images.githubusercontent.com/54719289/105101004-385b3480-5ad4-11eb-8766-64379224417e.JPG)
+
+![Capture](https://user-images.githubusercontent.com/54719289/105102617-0e564200-5ad5-11eb-89bc-bfed128bd174.JPG)
